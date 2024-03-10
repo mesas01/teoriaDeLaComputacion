@@ -1,0 +1,34 @@
+variable = 10;
+decimal = 3.14;
+mensaje = "Hola mundo";
+verdaderoBool = verdadero;
+falsoBool = falso;
+
+escribir(mensaje);
+escribir(variable + decimal);
+escribir(verdaderoBool && falsoBool);
+
+/*numero = 9;
+si (numero > 0) {
+    escribir("El número es positivo");
+} sino {
+    escribir("El número es negativo o cero");
+}*/
+
+/*contador = 0;
+mientras (contador <= 5) {
+    escribir(contador);
+    contador = contador + 1;
+}*/
+
+/*a = 10;
+b = 20;
+si (a < b && b > 15) {
+    escribir("B es mayor que A y mayor que 15");
+}*/
+
+/*nombre = "Lingua";
+apellido = "Py";
+nombreCompleto = nombre + " " + apellido;
+edad = 1;
+escribir("El lenguaje " + nombreCompleto + " tiene " + edad + " año de creado");*/
